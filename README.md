@@ -11,11 +11,6 @@
 #### MUSIC&nbsp; 🎶&nbsp; My favorite singer is [NIGHTMARE](https://www.nightmare-web.com/pc/)
 #### LOVE&nbsp; 💖&nbsp; I love cats! I want to keep a Munchkin someday
 
-## Performance
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=0429oonishi&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ## Qiita
 
 <p align="left"> 
