@@ -17,7 +17,7 @@
   <a href="http://qiita.com/REON">
     <img height="25" src="https://qiita-badge.apiapi.app/s/REON/posts.svg" />
   </a>
-  <//qiita.com/REON">
+  <a href="http://qiita.com/REON">
     <img height="25" src="https://qiita-badge.apiapi.app/s/REON/contributions.svg" />
   </a>
 </p>
