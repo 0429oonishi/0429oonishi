@@ -8,7 +8,7 @@
 #### JOB&nbsp; 🎓&nbsp;&nbsp; I’m studying physics at university.
 #### DREAM&nbsp; 🍎&nbsp;&nbsp; I’m training to become an iOS developer.
 #### HELP&nbsp; ✋&nbsp;&nbsp; I’m looking for someone to teach RxSwift.LOL
-#### MUSIC&nbsp; 🎶&nbsp;&nbsp; My favorite singer is [NIGHTMARE](https://www.nightmare-web.com/pc/).
+#### MUSIC&nbsp; 🎶&nbsp;&nbsp; My favorite musician is [NIGHTMARE](https://www.nightmare-web.com/pc/).
 #### LOVE&nbsp; 💖&nbsp;&nbsp; I love cats! I want to keep a Munchkin someday.
 
 ## Qiita
