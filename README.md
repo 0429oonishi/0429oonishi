@@ -26,7 +26,7 @@
 
 <p align="left"> 
   <a href="http://twitter.com/swift_apple_jp">
-    <img height="25" src="https://img.shields.io/twitter/follow/swift_apple_jp?label=Twitter&logo=twitter&style=flat" />
+    <img height="25" src="https://img.shields.io/twitter/follow/reon_apple?label=Twitter&logo=twitter&style=flat" />
   </a>
 </p>
 
