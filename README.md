@@ -1,7 +1,7 @@
 
 ## GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0429oonishi&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reon0429-cat&show_icons=true&theme=synthwave)
 
 ## Profile
 
