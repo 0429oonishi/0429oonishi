@@ -1,9 +1,13 @@
 
 ## GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reon0429-cat&show_icons=true&theme=synthwave)
+<a href="https://github.com/Reon0429-cat/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Reon0429-cat&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/Reon0429-cat/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reon0429-cat&layout=compact" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reon0429-cat&layout=compact)](https://github.com/Reon0429-cat/github-readme-stats)
 
 ## Profile
 
