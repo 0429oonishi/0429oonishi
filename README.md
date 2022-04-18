@@ -27,8 +27,8 @@
 ## Twitter
 
 <p align="left"> 
-  <a href="http://twitter.com/reon_engineer">
-    <img height="25" src="https://img.shields.io/twitter/follow/reon_engineer?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/reon_ios_cat">
+    <img height="25" src="https://img.shields.io/twitter/follow/reon_ios_cat?label=Twitter&logo=twitter&style=flat" />
   </a>
 </p>
 
