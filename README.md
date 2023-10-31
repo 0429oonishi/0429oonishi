@@ -5,14 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reon0429-cat&layout=compact)](https://github.com/Reon0429-cat/github-readme-stats)
 
-## Profile
-
-#### JOB&nbsp; 🎓&nbsp;&nbsp; I’m studying physics at university.
-#### DREAM&nbsp; 🍎&nbsp;&nbsp; I’m training to become an iOS developer.
-#### HELP&nbsp; ✋&nbsp;&nbsp; I’m looking for someone to teach RxSwift.LOL
-#### MUSIC&nbsp; 🎶&nbsp;&nbsp; My favorite musician is [NIGHTMARE](https://www.nightmare-web.com/pc/).
-#### LOVE&nbsp; 💖&nbsp;&nbsp; I love cats! I want to keep a Munchkin someday.
-
 ## Qiita
 
 <p align="left"> 
